@@ -195,7 +195,10 @@ In order to carry out this, I followed the steps shown below:
 
 
  
- the highway loop.
+ 
+
+
+ highway loop.
 
 The highway's waypoints loop around so the frenet s value, distance along the road, goes from 0 to 6945.554.
 
